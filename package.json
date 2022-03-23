@@ -1,29 +1,37 @@
 {
-    "name": "aspiesoft-intellij-theme",
-    "displayName": "AspieSoft IntelliJ Theme",
-    "description": "WebStorm based code highlighting with a custom dark theme background",
-    "version": "1.0.0",
-    "publisher": "AspieSoft",
-    "author": "AspieSoft",
-    "license": "MIT",
-    "icon": "icon-128x128.png",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/aspiesoft/vscode-intellij-theme.git"
-    },
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "AspieSoft IntelliJ Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/AspieSoftTheme-color-theme.json"
-            }
-        ]
-    }
+	"name": "aspiesoft-intellij-theme",
+	"displayName": "AspieSoft IntelliJ Theme",
+	"description": "WebStorm based code highlighting with a custom dark theme background",
+	"version": "1.0.1",
+	"publisher": "AspieSoft",
+	"author": "AspieSoft",
+	"license": "MIT",
+	"icon": "icon-128x128.png",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/aspiesoft/vscode-intellij-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "AspieSoft IntelliJ Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/AspieSoftTheme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1648056921910,
+		"id": "e0c18e83-91e4-4d10-832d-6171177d496e",
+		"publisherId": "e4733329-84e5-4b15-9d7a-c8857350db03",
+		"publisherDisplayName": "AspieSoft",
+		"isPreReleaseVersion": false,
+		"preRelease": false
+	}
 }
