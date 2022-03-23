@@ -1,0 +1,29 @@
+{
+    "name": "aspiesoft-intellij-theme",
+    "displayName": "AspieSoft IntelliJ Theme",
+    "description": "WebStorm based code highlighting with a custom dark theme background",
+    "version": "1.0.0",
+    "publisher": "AspieSoft",
+    "author": "AspieSoft",
+    "license": "MIT",
+    "icon": "icon-128x128.png",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/aspiesoft/vscode-intellij-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AspieSoft IntelliJ Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AspieSoftTheme-color-theme.json"
+            }
+        ]
+    }
+}
