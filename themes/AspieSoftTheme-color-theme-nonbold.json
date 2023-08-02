@@ -1,5 +1,5 @@
 {
-  "name": "AspieSoft IntelliJ Theme (Non Bold)",
+  "name": "AspieSoft IntelliJ Theme",
   "type": "dark",
   "colors": {
     "activityBar.background": "#323232",
@@ -86,7 +86,7 @@
     {
       "scope": "strong",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -170,14 +170,14 @@
     {
       "scope": "markup.bold",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#569cd6"
       }
     },
     {
       "scope": "markup.heading",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#569cd6"
       }
     },
@@ -724,7 +724,7 @@
       ],
       "settings": {
         "foreground": "#CC7832",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -754,7 +754,7 @@
       "scope": "storage.type.class.jsdoc",
       "settings": {
         "foreground": "#6A8759",
-        "fontStyle": "italic italic underline"
+        "fontStyle": "italic underline"
       }
     },
     {
@@ -1056,7 +1056,7 @@
       ],
       "settings": {
         "foreground": "#CC7832",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
